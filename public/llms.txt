@@ -1,57 +1,47 @@
-# נשים ברשת — Generative Engine Optimization Map
-
-> A פרסום אירועים / קהילה נשית business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-d1da060e.zappy5.app
+https://example.com
 גלי את הקהילה המובילה לנשים בישראל - אירועים, תערוכות, טיולים והזדמנויות רשת ייחודיות. הצטרפי עכשיו!
 
 ### אירועים
-https://-d1da060e.zappy5.app/services
+https://example.com/services
 גלי את מגוון האירועים לנשים בישראל - תערוכות אומנות, טיולים מאורגנים, סרטים, הצגות תיאטרון ואירועי רשת. פרסום אירועים בחינם!
 
 ### אודות
-https://-d1da060e.zappy5.app/about
+https://example.com/about
 הכירי את נשים ברשת - הקהילה המובילה לפרסום אירועים לנשים בישראל. המשימה, החזון והערכים שלנו למען נשים בכל הארץ.
 
 ### צור קשר
-https://-d1da060e.zappy5.app/contact
+https://example.com/contact
 צרי קשר עם נשים ברשת - פרסמי אירוע, הצטרפי לקהילה או שאלי שאלות. אנחנו כאן כדי לעזור לך!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d1da060e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d1da060e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d1da060e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About נשים ברשת
-נשים ברשת is a business in the פרסום אירועים / קהילה נשית industry.
-
-## Target Audience
-נשים
-
-## Industry
-פרסום אירועים / קהילה נשית
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-d1da060e.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-d1da060e.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
