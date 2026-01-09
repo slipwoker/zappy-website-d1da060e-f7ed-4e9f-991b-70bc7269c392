@@ -1,0 +1,57 @@
+# נשים ברשת — Generative Engine Optimization Map
+
+> A פרסום אירועים / קהילה נשית business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-d1da060e.zappy5.app
+גלי את הקהילה המובילה לנשים בישראל - אירועים, תערוכות, טיולים והזדמנויות רשת ייחודיות. הצטרפי עכשיו!
+
+### אירועים
+https://-d1da060e.zappy5.app/services
+גלי את מגוון האירועים לנשים בישראל - תערוכות אומנות, טיולים מאורגנים, סרטים, הצגות תיאטרון ואירועי רשת. פרסום אירועים בחינם!
+
+### אודות
+https://-d1da060e.zappy5.app/about
+הכירי את נשים ברשת - הקהילה המובילה לפרסום אירועים לנשים בישראל. המשימה, החזון והערכים שלנו למען נשים בכל הארץ.
+
+### צור קשר
+https://-d1da060e.zappy5.app/contact
+צרי קשר עם נשים ברשת - פרסמי אירוע, הצטרפי לקהילה או שאלי שאלות. אנחנו כאן כדי לעזור לך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d1da060e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d1da060e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d1da060e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נשים ברשת
+נשים ברשת is a business in the פרסום אירועים / קהילה נשית industry.
+
+## Target Audience
+נשים
+
+## Industry
+פרסום אירועים / קהילה נשית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-d1da060e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-d1da060e.zappy5.app/robots.txt
